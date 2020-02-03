@@ -7,4 +7,4 @@
 ##### Filtramos el nuevo csv con una nueva función para que nos devuelda valores deseados.
 ##### Ejecutamos el programa por terminal
 
-### ¡¡¡OJOO!!! Mi terminal no lee el argparse, dejo todo indicado.
+### ¡¡¡OJOO!!! No se importa "argparse", dejo todo indicado.
