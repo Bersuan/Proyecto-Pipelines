@@ -1,6 +1,7 @@
 import re
 import pandas as pd
 import numpy as np
+from bs4 import BeautifulSoup
 
 #Creamos una funcion para sacar el año de la fecha inicial
 def createYear(date):
