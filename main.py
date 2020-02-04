@@ -5,7 +5,7 @@ def main():
     pass
 
 if __name__ == '__main__':
-    args=parser()
-    SumaGoles(args.fecha, args.temperatura)
+    fecha, temperatura=parser()
+    SumaGoles(fecha, temperatura)
 
     #ME DA ERROR AL IMPORTAR EL ARGPARSE
