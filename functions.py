@@ -1,3 +1,7 @@
+import re
+import pandas as pd
+import numpy as np
+
 #Creamos una funcion para sacar el año de la fecha inicial
 def createYear(date):
         year = re.search('\d+.',date).end()
